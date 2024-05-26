@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was hosted with gh-pages(https://mananpathak01.github.io/react-expense-report/).
 
 ## Available Scripts
 
